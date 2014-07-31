@@ -1,0 +1,4 @@
+table { border: 0px solid red; padding:0px; border-spacing: 0px; width: 100%}
+th { background-color: skyblue;}
+tr:nth-child(odd) { background-color:#ECF3FF; }
+tr:nth-child(even) { background-color:#E3EDFF; }
